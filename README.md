@@ -15,4 +15,5 @@ For the plotting part.
 pip install matplotlib
 `
 # moving average method
-![AAPL](https://user-images.githubusercontent.com/13776994/80965246-766dd680-8e27-11ea-87bc-88f578c467fe.png)
+![AAPL](https://user-images.githubusercontent.com/13776994/80971533-2fd1a980-8e32-11ea-8081-d889dce9d3ac.png)
+
