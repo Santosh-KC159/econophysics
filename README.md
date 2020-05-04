@@ -1,5 +1,5 @@
 # econophysics
-My codes over the course econophysics based on python, numpy and pandas
+My codes over the econophysics course based on python, numpy and pandas
 
 ## Requirement
 To work with csv files
