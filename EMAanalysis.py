@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
-apple = pd.read_csv('AAPL.csv')
+apple = pd.read_csv('data/AAPL.csv')
 opens = np.array(apple['Open'])
 
 def movingAverage(signal, window=40):
