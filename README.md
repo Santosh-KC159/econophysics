@@ -22,3 +22,4 @@ pip install matplotlib
 # moving average method
 ![AAPL](https://user-images.githubusercontent.com/13776994/80971533-2fd1a980-8e32-11ea-8081-d889dce9d3ac.png)
 ![AAPL](images/AAPL.png)
+![AAPL](images/candlestick.png)
