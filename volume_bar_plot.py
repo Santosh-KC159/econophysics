@@ -6,7 +6,6 @@ import datetime as dt
 import pandas_datareader.data as web
 
 style.use('ggplot')
-
 '''
 start = dt.datetime(2015,1,1)
 end = dt.datetime(2019,12,31)
